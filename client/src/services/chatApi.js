@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://chat-bot-v1-rho.vercel.app/api";
+const API_BASE_URL = "https://chatbot-udzu.onrender.com/api";
 
 /**
  * Sends a message + conversation history to the backend and
